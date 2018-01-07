@@ -14,6 +14,7 @@
 # 后端
 * [nginx](https://github.com/nginx/nginx): 优秀的http服务器
 * [macaron](https://github.com/go-macaron/macaron): 基于go的web框架
+* [revel](http://revel.github.io/): 基于go的web框架
 * [kafka](https://github.com/apache/kafka): 优秀且高性能的消息队列
 
 
