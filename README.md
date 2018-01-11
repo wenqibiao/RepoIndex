@@ -6,9 +6,12 @@
 * [netdata](https://github.com/firehol/netdata): 数据采集、展示、监控、告警并支持导出的框架
 * [telegraf](https://github.com/influxdata/telegraf): 数据采集框架
 
-## 爬虫
+## 爬虫框架
 * [node-crawler](https://github.com/bda-research/node-crawler): nodejs编写的爬虫框架
 * [neocrawler](https://www.npmjs.com/package/neocrawler): nodejs编写的爬虫框架
+
+## 测试框架
+* [selenium](https://github.com/SeleniumHQ/selenium): 浏览器自动化框架，可用于测试前端、爬虫，提供python、js、java等API
 
 ## 其它
 * [python-fire](https://github.com/google/python-fire): 将类的方法生成命令行
