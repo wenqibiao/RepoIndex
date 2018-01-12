@@ -1,3 +1,10 @@
+# 教程
+## 语言类教程
+### Golang
+* [The Way to Go,Go入门指南](https://github.com/Unknwon/the-way-to-go_ZH_CN)
+* [Go视频教程](https://github.com/Unknwon/go-fundamental-programming)
+* (https://github.com/Unknwon)
+
 
 # 工具类
 
@@ -15,6 +22,7 @@
 
 ## 其它
 * [python-fire](https://github.com/google/python-fire): 将类的方法生成命令行
+* [Gogs](https://github.com/gogits/gogs): 一款极易搭建的自助 Git 服务。
 
 
 # 数据库
