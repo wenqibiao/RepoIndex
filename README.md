@@ -43,6 +43,9 @@
 
 # 人工智能
 
+## 数据分析
+[prophet](https://github.com/facebook/prophet): Facebook开源的预测框架
+
 
 # 场景解决方案
 * 日志系统
