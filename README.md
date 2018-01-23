@@ -12,6 +12,8 @@
 * [grafana](https://github.com/grafana/grafana): 流行且优秀的监控与展示框架
 * [netdata](https://github.com/firehol/netdata): 数据采集、展示、监控、告警并支持导出的框架
 * [telegraf](https://github.com/influxdata/telegraf): 数据采集框架
+* [psutil](https://github.com/giampaolo/psutil): Cross-platform lib for process and system monitoring in Python
+* [gopsutil](https://github.com/shirou/gopsutil): Cross-platform lib for process and system monitoring in Golang
 
 ## 爬虫框架
 * [node-crawler](https://github.com/bda-research/node-crawler): nodejs编写的爬虫框架
