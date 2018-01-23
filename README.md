@@ -23,7 +23,7 @@
 * [selenium](https://github.com/SeleniumHQ/selenium): 浏览器自动化框架，可用于测试前端、爬虫，提供python、js、java等API
 
 ## 语言分析
-* [antlr](https://github.com/antlr/antlr4): 语法分析生成器，可生成Java、Python、Go、C++等语言的语法分析单元
+* [antlr](https://github.com/antlr/antlr4): 语法分析生成器，可生成Java、Python、Go、C++等语言的语法分析单元，这里有大量[例子](https://github.com/antlr/grammars-v4)
 * [lemon](https://www.hwaci.com/sw/lemon/lemon.html): 语法分析生成器，用Sqlite、PHP项目中
 
 ## 其它
