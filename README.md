@@ -22,6 +22,7 @@
 
 ## 语言分析
 * [antlr](https://github.com/antlr/antlr4): 语法分析生成器，可生成Java、Python、Go、C++等语言的语法分析单元
+* [lemon](https://www.hwaci.com/sw/lemon/lemon.html): 语法分析生成器，用Sqlite、PHP项目中
 
 ## 其它
 * [python-fire](https://github.com/google/python-fire): 将类的方法生成命令行
