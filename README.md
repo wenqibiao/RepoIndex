@@ -20,6 +20,9 @@
 ## 测试框架
 * [selenium](https://github.com/SeleniumHQ/selenium): 浏览器自动化框架，可用于测试前端、爬虫，提供python、js、java等API
 
+## 语言分析
+* [antlr](https://github.com/antlr/antlr4): 语法分析生成器，可生成Java、Python、Go、C++等语言的语法分析单元
+
 ## 其它
 * [python-fire](https://github.com/google/python-fire): 将类的方法生成命令行
 * [Gogs](https://github.com/gogits/gogs): 一款极易搭建的自助 Git 服务。
