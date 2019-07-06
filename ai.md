@@ -37,6 +37,9 @@
 
 ## 支持向量机
 
+### 典型实现
+* [libsvm](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
+
 
 ## 神经网络
 
@@ -60,4 +63,7 @@
 ## pytorch
 
 ## keras
+
+
+
 
