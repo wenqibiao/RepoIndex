@@ -29,6 +29,7 @@
 ## 其它
 * [python-fire](https://github.com/google/python-fire): 将类的方法生成命令行
 * [Gogs](https://github.com/gogits/gogs): 一款极易搭建的自助 Git 服务。
+* [jupyter](https://github.com/jupyter/jupyter/wiki/Jupyter-kernels): 交互执行代码
 
 
 # 数据库
