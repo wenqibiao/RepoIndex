@@ -37,7 +37,7 @@
 
 ## 支持向量机
 
-### 典型实现
+### 经典实现
 * [libsvm](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 
 
